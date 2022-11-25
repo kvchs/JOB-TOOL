@@ -69,7 +69,7 @@ const constantRoutes = [
         meta: { title: 'Guide', icon: 'guide', noCache: true }
       }
     ]
-  }
+  },
 ]
 
 const asyncRoutes = [
